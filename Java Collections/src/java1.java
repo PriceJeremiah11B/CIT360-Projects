@@ -12,5 +12,6 @@ public class java1 {
 	a1.add("yellow");
 	a1.add("pink");
 	
+	
 	}
 }
