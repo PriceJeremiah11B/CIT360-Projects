@@ -1,4 +1,6 @@
 package com.tcg.json;
+import java.util.Scanner;
+
 
 import org.json.*;
 
@@ -32,6 +34,7 @@ public class Main {
 		
 		boolean bool = obj.getBoolean("Boolean");
 		System.out.println(bool);
+		
 		
 	}
 

@@ -6,6 +6,9 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path=".settings"/>
+	<classpathentry kind="src" path="assets"/>
+	<classpathentry kind="src" path="lib"/>
 	<classpathentry kind="lib" path="lib/json.jar" sourcepath="lib/json.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
